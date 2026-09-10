@@ -1,0 +1,6 @@
+{
+  "name": "Spin Gems",
+  "description": "A dazzling gem-spinning casino and lucky fortune wheel application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
